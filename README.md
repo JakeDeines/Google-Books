@@ -7,6 +7,5 @@ In this homework i created a new React-based Google Books Search app that lets y
 
 
 ## Github Repository URL
+https://github.com/JakeDeines/Google-Books
 
-
-## Deployed Website Image
